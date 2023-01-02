@@ -2,7 +2,7 @@
 
 > A CSS Reset style is a list of rules that 'reset' all of the default browser styles.
 
-> This CSS reset style is not standard, although any CSS reset is not standard. I followed this CSS reset most of the times. This reset has my personal touch, so this is very subjective.
+> This CSS reset style is not standard, although any CSS reset is not standard. I followed this CSS reset most of the time. This reset has my personal touch, so this is very subjective.
 
 ---
 
